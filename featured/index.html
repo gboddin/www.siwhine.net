@@ -17,23 +17,23 @@ Description: Awesome dude, awesome life
 -->
 <head>
 <meta charset="utf-8">
-<title>BLOG &vert; SIWHINE.NET</title>
-<meta name="description" content="Sysadmin, DevOps, Life and stuff">
-<meta name="keywords" content="blog">
+<title>FEATURED POSTS &vert; SIWHINE.NET</title>
+<meta name="description" content="An archive of posts sorted by date.">
+
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="//images/logo.png">
-<meta name="twitter:title" content="BLOG">
-<meta name="twitter:description" content="Sysadmin, DevOps, Life and stuff">
+<meta name="twitter:title" content="FEATURED POSTS">
+<meta name="twitter:description" content="An archive of posts sorted by date.">
 <meta name="twitter:creator" content="@gboddin">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="BLOG">
-<meta property="og:description" content="Sysadmin, DevOps, Life and stuff">
-<meta property="og:url" content="//">
+<meta property="og:title" content="FEATURED POSTS">
+<meta property="og:description" content="An archive of posts sorted by date.">
+<meta property="og:url" content="//featured/">
 <meta property="og:site_name" content="Siwhine.net">
 <meta property="og:image" content="//images/">
 
@@ -41,7 +41,7 @@ Description: Awesome dude, awesome life
 
 
 
-<link rel="canonical" href="//">
+<link rel="canonical" href="//featured/">
 <link href="//feed.xml" type="application/atom+xml" rel="alternate" title="Siwhine.net Feed">
 
 
@@ -78,13 +78,21 @@ Description: Awesome dude, awesome life
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//images/apple-touch-icon-144x144-precomposed.png">
 
 </head>
-<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
-<header class="notepad-site-head">
-    <div class="notepad-site-head-menu">
-        <a class="notepad-blog-logo" href="/"><img src="//images/logo.png" alt="Blog Logo" /></a>
-        
-        
-        <div class="notepad-blog-menu">      
+<body class="post-template page" itemscope itemtype="http://schema.org/WebPage">
+
+<main id="notepad-page-container" class="notepad-page-container" role="main">
+    
+    
+        <header class="notepad-page-header">
+            <div class="notepad-page-menu-header">
+                
+                    <a class="notepad-blog-logo" href="/">
+                        <img src="//images/logo.png" alt="Blog Logo">
+                    </a>
+                
+                
+                
+                <div class="notepad-blog-menu">      
     <div class="notepad-mobile-menu show-for-small">
         <a href="#"><i class="fa fa-bars"></i></a>
     </div>
@@ -94,56 +102,44 @@ Description: Awesome dude, awesome life
         </li>
 
             <li>
-            <a href="//">Home</a>
-             </li>
+                    <a href="//">Home</a>
+                 </li>
 
             <li>
-            <a href="//featured">Featured Posts</a>
-             </li>
+                    <a href="//featured">Featured Posts</a>
+                 </li>
 
             <li>
-            <a href="//categories">Categories</a>
-             </li>
+                    <a href="//categories">Categories</a>
+                 </li>
 
             <li>
-            <a href="//about">About</a>
-             </li>
+                    <a href="//about">About</a>
+                 </li>
             
            <li><a href="//feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
     </ul>
 </div>
-        <div class="clearfix"></div>
-    </div>
-    <div class="notepad-site-head-content" >
-        <div class="notepad-site-head-bg"></div>
-        <h1 class="notepad-blog-title">
-            <span class="notepad-site-head-title-bg">
-                Siwhine.net
-            </span>
-        </h1>
-        <h2 class="notepad-blog-description">I stopped counting ...</h2>
-    </div>
-</header>
+            </div>
+            <div class="notepad-page-title row">
+                <div class="small-12 columns">
+                    <h1>FEATURED POSTS</h1>
+                </div>
+            </div>
+        </header>
 
+<article class="notepad-page-content">
+                    <div>
+<ul class="post-list">
 
-<main class="notepad-content" role="main">
+</ul>
 
-            
-	
-    <nav class="pagination" role="navigation">
-    
-    <span class="newer-posts faded"><i class="fa fa-chevron-left"></i> Newer</span>
-    
-
-    
-    <span class="page-number">Page  of </span>
-    	
-    	<span class="older-posts faded">Older <i class="fa fa-chevron-right"></i></span>
-    	
-	</nav>
-
-
-</main>
+<div class="notepad-page-title row">
+    <h1>No posts has been featured yet</h1>
+</div>
+</div>
+</article>
+        <div class="cf"></div>
     <footer class="notepad-site-footer">
     <div class="copyright">
          <section>All content copyright <a href="//about">Gregory Boddin</a> &copy; 2018 &bull; All rights reserved.</section>
@@ -176,6 +172,7 @@ Description: Awesome dude, awesome life
     <div class="cf"></div>
 </footer>
 
+</main>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="//assets/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
