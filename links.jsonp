@@ -1,8 +1,0 @@
-callback([
-
-  {
-    "text": "Welcome to Jekyll!",
-    "href": "http://yourdomain.com/jekyll/update/2018/04/21/welcome-to-jekyll.html"
-  } 
-
-])
