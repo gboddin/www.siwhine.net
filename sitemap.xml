@@ -1,50 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://www.siwhine.net</loc>
+        <loc>http://yourdomain.com</loc>
     </url>
     
     
     <url>
-        <loc>https://www.siwhine.net/404</loc>
+        <loc>http://yourdomain.com/404.html</loc>
     </url>
     
     <url>
-        <loc>https://www.siwhine.net/about/index.html</loc>
+        <loc>http://yourdomain.com/about/</loc>
     </url>
     
     <url>
-        <loc>https://www.siwhine.net/categories/index.html</loc>
+        <loc>http://yourdomain.com/categories/index.html</loc>
     </url>
     
     <url>
-        <loc>https://www.siwhine.net/featured/</loc>
+        <loc>http://yourdomain.com/featured/</loc>
     </url>
     
     <url>
-        <loc>https://www.siwhine.net/feed.xml</loc>
+        <loc>http://yourdomain.com/feed.xml</loc>
     </url>
     
     <url>
-        <loc>https://www.siwhine.net/</loc>
+        <loc>http://yourdomain.com/</loc>
     </url>
     
     <url>
-        <loc>https://www.siwhine.net/links.jsonp</loc>
+        <loc>http://yourdomain.com/links.jsonp</loc>
     </url>
     
     <url>
-        <loc>https://www.siwhine.net/search.json</loc>
+        <loc>http://yourdomain.com/css/main.css</loc>
     </url>
     
     <url>
-        <loc>https://www.siwhine.net/sitemap.xml</loc>
+        <loc>http://yourdomain.com/search.json</loc>
     </url>
     
     <url>
-        <loc>https://www.siwhine.net/tags/index.html</loc>
+        <loc>http://yourdomain.com/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://yourdomain.com/tags/index.html</loc>
     </url>
     
 
+    
+    <url>
+        <loc>http://yourdomain.com/jekyll/update/2018/04/21/welcome-to-jekyll.html</loc>
+    </url>
     
 </urlset>
