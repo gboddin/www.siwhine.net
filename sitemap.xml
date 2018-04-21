@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>/</loc>
+        <loc>https://www.siwhine.net</loc>
     </url>
     
     
     <url>
-        <loc>//404</loc>
+        <loc>https://www.siwhine.net/404</loc>
     </url>
     
     <url>
-        <loc>//about/index.html</loc>
+        <loc>https://www.siwhine.net/about/index.html</loc>
     </url>
     
     <url>
-        <loc>//categories/index.html</loc>
+        <loc>https://www.siwhine.net/categories/index.html</loc>
     </url>
     
     <url>
-        <loc>//featured/</loc>
+        <loc>https://www.siwhine.net/featured/</loc>
     </url>
     
     <url>
-        <loc>//feed.xml</loc>
+        <loc>https://www.siwhine.net/feed.xml</loc>
     </url>
     
     <url>
-        <loc>//</loc>
+        <loc>https://www.siwhine.net/</loc>
     </url>
     
     <url>
-        <loc>//links.jsonp</loc>
+        <loc>https://www.siwhine.net/links.jsonp</loc>
     </url>
     
     <url>
-        <loc>//search.json</loc>
+        <loc>https://www.siwhine.net/search.json</loc>
     </url>
     
     <url>
-        <loc>//sitemap.xml</loc>
+        <loc>https://www.siwhine.net/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>//tags/index.html</loc>
+        <loc>https://www.siwhine.net/tags/index.html</loc>
     </url>
     
 
